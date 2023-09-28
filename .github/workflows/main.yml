@@ -31,17 +31,6 @@
     </header>
 
     <style>
-        @media (min-width: 640px) {
-            #menu {
-                flex-direction: row;
-            }
-        }
-        
-        @media (max-width: 639px) {
-            #menu {
-                flex-direction: column;
-            }
-        }
     </style>
 
     <script>
